@@ -2,7 +2,7 @@
 
 ## Commands:
 
-### Comandos Git:
+### Commands Git:
 * $ echo "# desafiolatamLion" >> README.md
 * $ git add README.md
 * $ git init
