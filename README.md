@@ -1,13 +1,13 @@
 # desafiolatamLion
 
-## Comandos:
+## Commands:
 
-### Comandos GitHub
+### Comandos Git:
 * $ echo "# desafiolatamLion" >> README.md
 * $ git add README.md
 * $ git init
 
-### Comandos terminal:
+### Commands for terminal:
 
 * $ mkdir carpeta1
 * $ cd carpeta1
@@ -17,3 +17,9 @@
 * $ git commit -m "first commit"
 * $ git remote add origin git@github.com:faviovelez/desafiolatamLion.git
 * $ git push -u origin master
+
+```
+# This is a Title [h1]
+## This is a subtitle [h2]
+### THis is a h3
+```
